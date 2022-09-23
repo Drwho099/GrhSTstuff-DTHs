@@ -1,5 +1,5 @@
 /**
- *  Xiaomi Door/Window Sensor
+ *  Xiaomi Door/Window Sensor - modified by GRH
  *  Version 1.1
  *
  *
